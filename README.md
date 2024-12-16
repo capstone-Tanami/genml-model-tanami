@@ -15,4 +15,4 @@ This repository contains datasets, machine learning models, and resources for th
 - **Machine Learning**: TensorFlow, Keras
 - **Model Conversion**: TensorFlow.js, TensorFlow Lite
 - **Data Sources**: Google, Kaggle, Roboflow
-- **Programming Language**: Python, JavaScript
+- **Programming Language**: Python
